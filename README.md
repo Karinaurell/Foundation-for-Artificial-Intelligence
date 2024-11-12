@@ -11,3 +11,5 @@ Case 2 Analyzing Employee Retention and Performance Using HR Metrics and Analyti
 HR data analytics and predictive modelling leverages several key AI foundations, namely data analytics, machine learning, and data visualisation. By utilising these AI foundations, this project seeks to improve HR's understanding of data analytics and predictive modelling, thereby aiding more strategic, data-driven decision-making in employee recruitment, retention, and performance.
 
 The project required visualisations such as scatter plots, bar charts, pie charts and boxplots to understand correlations between variables, such as the relationship between employee performance and their manager, or the correlation between salary and job satisfaction and engagement. EDA was used to identify important variables related to employee termination, such as the reason for termination, department, gender, and position, which helped strengthen knowledge of the factors affecting employee retention.
+
+Dataset : https://raw.githubusercontent.com/Rietaros/kampus_merdeka/main/HRDataset_v14.csv
